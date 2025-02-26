@@ -1,0 +1,179 @@
+{
+    "defaults":
+    {
+        "colours":
+        {
+            "normal_bg":"rgb(117, 200, 255)",
+            "hovered_bg":"rgb(117, 200, 255)",
+            "disabled_bg":"rgb(117, 200, 255)",
+            "selected_bg":"rgb(117, 200, 255)",
+            "dark_bg":"rgb(117, 200, 255),rgb(69, 150, 255),-90",
+            "normal_text":"white",
+            "hovered_text":"rgb(15, 159, 255)",
+            "selected_text":"white",
+            "disabled_text":"white",
+            "link_text": "#0000EE",
+            "link_hover": "#2020FF",
+            "link_selected": "#551A8B",
+            "text_shadow": "#777777",
+            "normal_border": "white",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#808080",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0",
+            "filled_bar":"#f4251b",
+            "unfilled_bar":"#CCCCCC"
+        }, 
+        "misc":{
+            "shape": "rounded_rectangle",
+            "shape_corner_radius" : "5"
+        },
+        "font":
+         {
+            "name": "default",
+            "size": "32",
+            "bold": "0",
+            "italic": "0",
+            "regular_path" : "fonts/willy.ttf"
+         }
+
+    },
+
+    "button":
+    {
+        "colours":
+        {
+            "normal_bg":"rgb(69, 150, 255)",
+            "hovered_bg":"rgb(90, 170, 255)",
+            "disabled_bg":"rgb(69, 150, 255)",
+            "selected_bg":"rgb(120, 200, 255)",
+            "active_bg":"rgb(40, 130, 225)",
+            "dark_bg":"rgb(69, 150, 255)",
+            "normal_text":"white",
+            "hovered_text":"white",
+            "selected_text":"#FFFFFF",
+            "disabled_text":"white",
+            "active_text":"#FFFFFF",
+            "normal_border": "rgb(90, 170, 255)",
+            "hovered_border": "white",
+            "disabled_border": "rgb(90, 170, 255)",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0"
+        },
+
+        "font":
+         {
+            "name": "default",
+            "size": "32",
+            "bold": "0",
+            "italic": "0",
+            "regular_path" : "fonts/willy.ttf"
+         },
+
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+             "shape_corner_radius": "10",
+             "border_width": "2",
+             "state_transitions":
+             {
+                 "normal_hovered": "0.1",
+                 "hovered_normal": "0.1"
+             }
+        }
+    },
+
+    "panel":{
+        "misc":{
+            "shape": "rounded_rectangle",
+            "shape_corner_radius" : "5"
+        }
+    },
+    "@Title": {
+
+        "colours" : {
+            "normal_text" : "white"
+        },
+        "font":{
+            "name": "default",
+            "size" : "56" 
+        }
+
+    },
+
+    "progress_bar":
+     {
+         "colours":
+         {
+             "normal_text": "white",
+             
+             "normal_border": "rgb(90, 170, 255)",
+             "filled_bar": "rgb(117, 200, 255),rgb(69, 150, 255),180",
+             "unfilled_bar": "white"
+         },
+         "misc":{
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width" : "3"
+         }
+     },
+
+
+    "@SettingSlider":{
+
+        "colours" : {
+            "normal_text" : "white",
+            "hovered_text": "rgb(117, 200, 255)",
+            "hovered_border" : "rgb(117, 200, 255)"
+
+        },
+        "font":{
+            "name": "default",
+            "size" : "32" 
+        },
+        "misc":{
+            "shape": "rounded_rectangle",
+             "shape_corner_radius": "5",
+             "border_width": "2"
+
+        }
+
+
+    },
+
+    "horizontal_slider":
+     {
+         
+         "misc":
+         {
+            "shape": "rounded_rectangle",
+            "enable_arrow_buttons": "0",
+            "sliding_button_width": "20"
+         }
+     },
+     "horizontal_slider.button":
+     {
+         "misc":
+         {
+            "border_width": "1"
+         }
+     },
+     "horizontal_slider.#sliding_button":
+     {
+         "colours":
+         {
+            "normal_bg": "white"
+         },
+         
+         "misc":
+         {
+            "shape": "rounded_rectangle"
+          }
+        },
+        "window": {
+            "misc": {
+                "enable_close_button": "0"
+            }
+        }
+
+}
