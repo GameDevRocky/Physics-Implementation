@@ -1,0 +1,42 @@
+{
+  "0": {"pos": [37.5, 1188.75], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "1": {"pos": [1342.5, 1342.5], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[1057, 1207], [285, 135]]}
+,  "2": {"pos": [127.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "3": {"pos": [97.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "4": {"pos": [142.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "5": {"pos": [22.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "6": {"pos": [37.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "7": {"pos": [262.5, 1267.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "8": {"pos": [667.5, 1372.5], "orientation": [1.0, 0.0], "type": "Water", "layer": 0, "body_rect": [[322, 1282], [345, 90]]}
+,  "9": {"pos": [217.5, 1267.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "10": {"pos": [832.5, 1072.5], "orientation": [1.0, 0.0], "type": "Pendulum", "layer": 0, "pathRect": [[742, 1072], [90, 0]]}
+,  "11": {"pos": [247.5, 1267.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "12": {"pos": [112.5, 1057.5], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[112, 1057], [0, 165]]}
+,  "13": {"pos": [157.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "14": {"pos": [277.5, 1267.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "15": {"pos": [367.5, 1222.5], "orientation": [1.0, 0.0], "type": "SpikeHead", "layer": 0, "pathRect": [[367, 1222], [225, 120]]}
+,  "16": {"pos": [202.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "17": {"pos": [292.5, 1267.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "18": {"pos": [52.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "19": {"pos": [337.5, 1267.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "20": {"pos": [7.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "21": {"pos": [112.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "22": {"pos": [172.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "23": {"pos": [232.5, 1267.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "24": {"pos": [67.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "25": {"pos": [322.5, 1267.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "26": {"pos": [307.5, 1267.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "27": {"pos": [937.5, 1462.5], "orientation": [1.0, 0.0], "type": "Water", "layer": 0, "body_rect": [[787, 1387], [150, 75]]}
+,  "28": {"pos": [82.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "29": {"pos": [187.5, 1222.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "30": {"pos": [187.5, 1203.75], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "31": {"pos": [1117.5, 1252.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "32": {"pos": [1132.5, 1252.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "33": {"pos": [1147.5, 1252.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "34": {"pos": [1162.5, 1252.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "35": {"pos": [1177.5, 1252.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "36": {"pos": [1192.5, 1252.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "37": {"pos": [1207.5, 1252.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "38": {"pos": [1222.5, 1252.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+,  "39": {"pos": [1237.5, 1252.5], "orientation": [1.0, 0.0], "type": "green", "layer": 0}
+}

@@ -322,7 +322,7 @@ class LevelSelectionMenu(Menu):
         
         for index, name in enumerate(files):
             button = UIButton(
-                relative_rect= pygame.Rect(0, index * 25, app.SCREEN_WIDTH/2 - 100, 50),
+                relative_rect= pygame.Rect(0, index * 50, app.SCREEN_WIDTH/2 - 100, 50),
                 manager= self.ui_manager, container= self.levelsContainer.scrollableContainer,
                 text= name.replace('.json', ''),
                 command= self.create_level_command(name), 

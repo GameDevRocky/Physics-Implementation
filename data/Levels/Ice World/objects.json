@@ -1,0 +1,48 @@
+{
+  "0": {"pos": [1830.0, 1790.0], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[1830, 1570], [0, 220]]}
+,  "1": {"pos": [870.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "2": {"pos": [650.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "3": {"pos": [1890.0, 1790.0], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[1890, 1570], [0, 220]]}
+,  "4": {"pos": [810.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "5": {"pos": [830.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "6": {"pos": [850.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "7": {"pos": [730.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "8": {"pos": [1950.0, 1790.0], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[1950, 1570], [0, 220]]}
+,  "9": {"pos": [750.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "10": {"pos": [1750.0, 1950.0], "orientation": [1.0, 0.0], "type": "Water", "layer": 0, "body_rect": [[1390, 1810], [360, 140]]}
+,  "11": {"pos": [370.0, 1390.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "12": {"pos": [390.0, 1370.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "13": {"pos": [830.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "14": {"pos": [770.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "15": {"pos": [270.0, 1530.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "16": {"pos": [230.0, 1530.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "17": {"pos": [750.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "18": {"pos": [670.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "19": {"pos": [730.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "20": {"pos": [470.0, 1610.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "21": {"pos": [290.0, 1390.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "22": {"pos": [690.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "23": {"pos": [790.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "24": {"pos": [710.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "25": {"pos": [770.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "26": {"pos": [970.0, 1790.0], "orientation": [1.0, 0.0], "type": "Fan", "layer": 0}
+,  "27": {"pos": [250.0, 1530.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "28": {"pos": [90.0, 1770.0], "orientation": [1.0, 0.0], "type": "Fan", "layer": 0}
+,  "29": {"pos": [310.0, 1390.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "30": {"pos": [790.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "31": {"pos": [890.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "32": {"pos": [1250.0, 1250.0], "orientation": [1.0, 0.0], "type": "Pendulum", "layer": 0, "pathRect": [[1130, 1250], [120, 0]]}
+,  "33": {"pos": [330.0, 1390.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "34": {"pos": [1770.0, 1790.0], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[1770, 1570], [0, 220]]}
+,  "35": {"pos": [550.0, 1565.0], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "36": {"pos": [810.0, 1410.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "37": {"pos": [350.0, 1390.0], "orientation": [1.0, 0.0], "type": "Kiwi", "layer": 0, "fruit_type": "Kiwi"}
+,  "38": {"pos": [1230.0, 1570.0], "orientation": [1.0, 0.0], "type": "Saw", "layer": 1, "pathRect": [[1010, 1430], [220, 140]]}
+,  "39": {"pos": [850.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "40": {"pos": [610.0, 1930.0], "orientation": [1.0, 0.0], "type": "Water", "layer": 0, "body_rect": [[250, 1790], [360, 140]]}
+,  "41": {"pos": [910.0, 1810.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "42": {"pos": [590.0, 1610.0], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "43": {"pos": [530.0, 1565.0], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "44": {"pos": [1190.0, 1745.0], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "45": {"pos": [1110.0, 1725.0], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+}

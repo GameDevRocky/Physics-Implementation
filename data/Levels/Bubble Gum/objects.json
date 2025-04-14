@@ -1,0 +1,84 @@
+{
+  "0": {"pos": [202.5, 1117.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "1": {"pos": [1132.5, 1222.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "2": {"pos": [217.5, 1117.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "3": {"pos": [1162.5, 1222.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "4": {"pos": [157.5, 1132.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "5": {"pos": [1012.5, 1387.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "6": {"pos": [247.5, 1117.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "7": {"pos": [142.5, 1132.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "8": {"pos": [232.5, 1117.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "9": {"pos": [952.5, 1207.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "10": {"pos": [1012.5, 1207.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "11": {"pos": [1117.5, 1222.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "12": {"pos": [187.5, 1117.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "13": {"pos": [1147.5, 1222.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "14": {"pos": [277.5, 1282.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "15": {"pos": [97.5, 1282.5], "orientation": [1.0, 0.0], "type": "Brown", "layer": 0, "pathRect": [[97, 1102], [0, 180]]}
+,  "16": {"pos": [547.5, 1372.5], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[547, 1237], [0, 135]]}
+,  "17": {"pos": [37.5, 1327.5], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "18": {"pos": [1027.5, 1207.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "19": {"pos": [472.5, 1278.75], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "20": {"pos": [112.5, 1327.5], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "21": {"pos": [1102.5, 1203.75], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "22": {"pos": [22.5, 1132.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "23": {"pos": [1282.5, 1192.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "24": {"pos": [292.5, 1312.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "25": {"pos": [1297.5, 1192.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "26": {"pos": [262.5, 1297.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "27": {"pos": [97.5, 1008.75], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "28": {"pos": [727.5, 1372.5], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[727, 1237], [0, 135]]}
+,  "29": {"pos": [1042.5, 1207.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "30": {"pos": [937.5, 1207.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "31": {"pos": [262.5, 1312.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "32": {"pos": [22.5, 1327.5], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "33": {"pos": [1357.5, 1417.5], "orientation": [1.0, 0.0], "type": "Saw", "layer": 1, "pathRect": [[1027, 1417], [330, 0]]}
+,  "34": {"pos": [7.5, 1132.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "35": {"pos": [997.5, 1387.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "36": {"pos": [1252.5, 1192.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "37": {"pos": [997.5, 1207.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "38": {"pos": [1207.5, 1312.5], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[1072, 1162], [135, 150]]}
+,  "39": {"pos": [1267.5, 1192.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "40": {"pos": [967.5, 1387.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "41": {"pos": [1102.5, 1222.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "42": {"pos": [247.5, 1312.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "43": {"pos": [1072.5, 1402.5], "orientation": [1.0, 0.0], "type": "Fan", "layer": 0}
+,  "44": {"pos": [982.5, 1207.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "45": {"pos": [277.5, 1312.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "46": {"pos": [307.5, 1312.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "47": {"pos": [82.5, 1327.5], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "48": {"pos": [592.5, 1372.5], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[592, 1237], [0, 135]]}
+,  "49": {"pos": [217.5, 1327.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "50": {"pos": [1207.5, 1402.5], "orientation": [1.0, 0.0], "type": "Fan", "layer": 0}
+,  "51": {"pos": [52.5, 1327.5], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "52": {"pos": [127.5, 1132.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "53": {"pos": [67.5, 1327.5], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "54": {"pos": [682.5, 1372.5], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[682, 1237], [0, 135]]}
+,  "55": {"pos": [817.5, 832.5], "orientation": [1.0, 0.0], "type": "Pendulum", "layer": 0, "pathRect": [[607, 832], [210, 0]]}
+,  "56": {"pos": [982.5, 1387.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "57": {"pos": [52.5, 1132.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "58": {"pos": [292.5, 1282.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "59": {"pos": [7.5, 1327.5], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "60": {"pos": [1177.5, 1222.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "61": {"pos": [277.5, 1312.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "62": {"pos": [172.5, 1117.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "63": {"pos": [1327.5, 1192.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "64": {"pos": [1312.5, 1192.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "65": {"pos": [1177.5, 1188.75], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "66": {"pos": [637.5, 1372.5], "orientation": [1.0, 0.0], "type": "RockHead", "layer": 0, "pathRect": [[637, 1237], [0, 135]]}
+,  "67": {"pos": [337.5, 1263.75], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "68": {"pos": [967.5, 1207.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "69": {"pos": [97.5, 1327.5], "orientation": [1.0, 0.0], "type": "Spike", "layer": 0}
+,  "70": {"pos": [142.5, 1083.75], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "71": {"pos": [37.5, 1098.75], "orientation": [1.0, 0.0], "type": "Fire", "layer": 0}
+,  "72": {"pos": [907.5, 1402.5], "orientation": [1.0, 0.0], "type": "Fan", "layer": 0}
+,  "73": {"pos": [382.5, 1417.5], "orientation": [1.0, 0.0], "type": "Water", "layer": 0, "body_rect": [[172, 1342], [210, 75]]}
+,  "74": {"pos": [1237.5, 1192.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "75": {"pos": [307.5, 1297.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "76": {"pos": [232.5, 1327.5], "orientation": [1.0, 0.0], "type": "Melon", "layer": 0, "fruit_type": "Melon"}
+,  "77": {"pos": [37.5, 1132.5], "orientation": [1.0, 0.0], "type": "pink", "layer": 0}
+,  "78": {"pos": [277.5, 1312.5], "orientation": [1.0, 0.0], "type": "Apple", "layer": 0, "fruit_type": "Apple"}
+,  "79": {"pos": [277.5, 1267.5], "orientation": [1.0, 0.0], "type": "Apple", "layer": 0, "fruit_type": "Apple"}
+,  "80": {"pos": [217.5, 1252.5], "orientation": [1.0, 0.0], "type": "Apple", "layer": 0, "fruit_type": "Apple"}
+,  "81": {"pos": [217.5, 1252.5], "orientation": [1.0, 0.0], "type": "Apple", "layer": 0, "fruit_type": "Apple"}
+}

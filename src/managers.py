@@ -134,7 +134,7 @@ class EditorManager:
         level.tile_size = terrain_data['cache']['tileSize']
         level.layers = terrain_data['cache']['layers']
         level.bounding_rect = pygame.Rect(0,0, level.world_width * level.tile_size, level.world_height * level.tile_size)
-        level.spaces = [pymunk.Space() for _ in range(level.layers)]
+        level.spaces = [pymunk.Space(threaded= True) for _ in range(level.layers)]
         level.add_collision_handlers()
 
         terrain_size = level.world_width * level.world_height * level.layers
@@ -802,7 +802,7 @@ class AssetsManager:
 
         def get_grass_generators():
             assets = {}
-            grass_types = {'green' : (175, 235, 20), 'orange' : (225, 175, 35)}
+            grass_types = {'green' : (175, 235, 20), 'orange' : (225, 175, 35),'pink' : (255, 122, 251) }
             for type, color in grass_types.items():
                 img = pygame.Surface((10,10)).convert_alpha()
                 img.fill(color)
